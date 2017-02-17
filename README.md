@@ -1,2 +1,2 @@
-# Vue-
+# Vue-Learing-Examples
 Some project examples created when learning about vue.js ...
